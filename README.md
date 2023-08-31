@@ -1,1 +1,1 @@
-# MC-Server-Manager-Linux
+# MC Server Manager for Linux
